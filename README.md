@@ -1,7 +1,6 @@
 # LES-artefatos-beauty-control
-Trabalho desenvolvido para disciplina de  .
 
-O trabalho em questão é da disciplina de *Laboratório de Engenharia de Software* contendo os artefatos gerados ao longo dos ciclos de vida do software, do curso de graduação de Bacharelado de Sistema de Informação do IFES - Serra, pela docente Dr. Marta Talitha Carvalho Freire.
+O trabalho em questão é da disciplina de *Laboratório de Engenharia de Software*, contendo os artefatos gerados ao longo dos ciclos de vida do software, do curso de graduação de Bacharelado de Sistema de Informação do IFES - Serra, pela docente Dr. Marta Talitha Carvalho Freire.
 
 ### Informações Gerais
 - **Equipe**: [Antônio Carlos](https://github.com/duraes-antonio), [Harã Heique](https://github.com/HaraHeique), [Joel Will](https://github.com/joelwb) e [Nicolas Sampaio](https://github.com/NicolasSampaio)
