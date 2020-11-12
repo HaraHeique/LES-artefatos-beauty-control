@@ -4,6 +4,7 @@ O trabalho em questão é da disciplina de *Laboratório de Engenharia de Softwa
 
 ### Informações Gerais
 - **Equipe**: [Antônio Carlos](https://github.com/duraes-antonio), [Harã Heique](https://github.com/HaraHeique), [Joel Will](https://github.com/joelwb) e [Nicolas Sampaio](https://github.com/NicolasSampaio)
+- **Documentos por entrega**: https://drive.google.com/drive/folders/1-GnuReU-tNZxvHa44-Gd0BhA_aEWQZwW?usp=sharing
 
 ### 1. Descrição
 
@@ -50,5 +51,5 @@ Abaixo está a página inicial do [protótipo](./docs/prototype/prototipo-v1.pdf
 
 ### Informações adicionais
 Todo o código fonte da aplicação estão hospedados nos repositórios abaixo:
-- [Front-end](https://github.com/LarissaMotta/devweb-front-end)
-- [Back-end](https://github.com/LarissaMotta/devweb-back-end)
+- [Front-end](https://github.com/HaraHeique/devweb-front-end)
+- [Back-end](https://github.com/HaraHeique/devweb-back-end)
