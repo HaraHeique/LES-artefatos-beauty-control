@@ -34,7 +34,7 @@ Abaixo está a imagem demonstrando o [PMC](https://robsoncamargo.com.br/blog/pro
 ##### 3.2.1 Diagrama de Casos de Uso
 
 <figure>
-    <img src="" alt="Casos de Uso" title="Beauty Control - Casos de Uso" />
+    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/Casos%20de%20Uso.png?raw=true" alt="Casos de Uso" title="Beauty Control - Casos de Uso" />
 </figure>
 
 ##### 3.2.2 Diagrama de Estados
