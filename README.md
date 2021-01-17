@@ -29,16 +29,36 @@ Abaixo está a imagem demonstrando o [PMC](https://robsoncamargo.com.br/blog/pro
 
 ### 3. Modelagem
 
-#### 3.1 Comportamental - Casos de Uso
+#### 3.1 Comportamental
+
+##### 3.2.1 Diagrama de Casos de Uso
 
 <figure>
-    <img src="./docs/images/Diagrama de Casos de Uso.png" alt="Casos de Uso" title="Beauty Control - Casos de Uso" />
+    <img src="" alt="Casos de Uso" title="Beauty Control - Casos de Uso" />
 </figure>
 
-#### 3.2 Estrutural - Diagrama de classes do Projeto
+##### 3.2.2 Diagrama de Estados
+
+À fazer...
+
+#### 3.2 Estrutural
+
+##### 3.2.1 Diagrama de Classes do Projeto
 
 <figure>
-    <img src="./docs/images/Diagrama de Classes.png" alt="Diagrama de Classes" title="Beauty Control - Diagrama de Classes" />
+    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/Beauty%20Control%20-%20Diagrama%20de%20Classe.png?raw=true" alt="Diagrama de Classes" title="Beauty Control - Diagrama de Classes" />
+</figure>
+
+##### 3.2.1 Diagrama do Modelo Conceitual
+
+<figure>
+    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/Diagrama%20Relacional%20-%20Conceitual.png?raw=true" alt="Modelagem conceitual do BD" title="Beauty Control - Diagrama do Modelo Conceitual" />
+</figure>
+
+##### 3.2.1 Diagrama do Modelo Lógico
+
+<figure>
+    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/Diagrama%20Relacional%20-%20L%C3%B3gico.png?raw=true" alt="Modelagem lógica do BD" title="Beauty Control - Diagrama do Modelo Lógico" />
 </figure>
 
 ### 4. Protótipo
