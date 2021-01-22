@@ -71,5 +71,5 @@ Abaixo está a página inicial do [protótipo](./docs/prototype/prototipo-v1.pdf
 
 ### Informações adicionais
 Todo o código fonte da aplicação estão hospedados nos repositórios abaixo:
-- [Front-end](https://github.com/HaraHeique/devweb-front-end)
-- [Back-end](https://github.com/HaraHeique/devweb-back-end)
+- [Front-end](https://github.com/LarissaMotta/devweb-front-end)
+- [Back-end](https://github.com/LarissaMotta/devweb-back-end)
