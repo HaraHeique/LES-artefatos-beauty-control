@@ -40,7 +40,17 @@ Abaixo está a imagem demonstrando o [PMC](https://robsoncamargo.com.br/blog/pro
 
 ##### 3.1.2 Diagrama de Estados
 
-À fazer...
+###### 3.1.2.1 Estados do usuário
+
+<figure>
+    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/2%20-%20Sprint%201/Diagramas%20Comportamentais/Diagrama%20de%20estados%20-%20status%20do%20usu%C3%A1rio.png" alt="Estados do usuário" title="Beauty Control - Estados do Usuário" />
+</figure>
+
+###### 3.1.2.1 Estados de estoque produto
+
+<figure>
+    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/2%20-%20Sprint%201/Diagramas%20Comportamentais/Diagrama%20de%20estados%20-%20status%20estoque%20produto.png" alt="Estados do estoque do produto" title="Beauty Control - Estados do Estoque do Produto" />
+</figure>
 
 #### 3.2 Estrutural
 
