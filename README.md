@@ -35,7 +35,7 @@ Abaixo está a imagem demonstrando o [PMC](https://robsoncamargo.com.br/blog/pro
 ##### 3.1.1 Diagrama de Casos de Uso
 
 <figure>
-    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/2%20-%20Sprint%201/Diagramas%20Comportamentais/Casos%20de%20Uso.png" alt="Casos de Uso" title="Beauty Control - Casos de Uso" />
+    <img src="./docs/images/Diagrama de Casos de Uso.png" alt="Casos de Uso" title="Beauty Control - Casos de Uso" />
 </figure>
 
 ##### 3.1.2 Diagrama de Estados
@@ -43,13 +43,13 @@ Abaixo está a imagem demonstrando o [PMC](https://robsoncamargo.com.br/blog/pro
 ###### 3.1.2.1 Estados do usuário
 
 <figure>
-    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/2%20-%20Sprint%201/Diagramas%20Comportamentais/Diagrama%20de%20estados%20-%20status%20do%20usu%C3%A1rio.png" alt="Estados do usuário" title="Beauty Control - Estados do Usuário" />
+    <img src="./docs/images/Diagrama de estados - status do usuário.png" alt="Estados do usuário" title="Beauty Control - Estados do Usuário" />
 </figure>
 
 ###### 3.1.2.1 Estados de estoque produto
 
 <figure>
-    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/2%20-%20Sprint%201/Diagramas%20Comportamentais/Diagrama%20de%20estados%20-%20status%20estoque%20produto.png" alt="Estados do estoque do produto" title="Beauty Control - Estados do Estoque do Produto" />
+    <img src="./docs/images/Diagrama de estados - status estoque produto.png" alt="Estados do estoque do produto" title="Beauty Control - Estados do Estoque do Produto" />
 </figure>
 
 #### 3.2 Estrutural
@@ -57,19 +57,19 @@ Abaixo está a imagem demonstrando o [PMC](https://robsoncamargo.com.br/blog/pro
 ##### 3.2.1 Diagrama de Classes do Projeto
 
 <figure>
-    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/2%20-%20Sprint%201/Diagramas%20Estruturais/Diagrama%20de%20Classe.png?raw=true" alt="Diagrama de Classes" title="Beauty Control - Diagrama de Classes" />
+    <img src="./docs/images/Diagrama de Classes.png" alt="Diagrama de Classes" title="Beauty Control - Diagrama de Classes" />
 </figure>
 
 ##### 3.2.2 Diagrama do Modelo Conceitual
 
 <figure>
-    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/2%20-%20Sprint%201/Diagramas%20Estruturais/Diagrama%20Relacional%20-%20Conceitual.png" alt="Modelagem conceitual do BD" title="Beauty Control - Diagrama do Modelo Conceitual" />
+    <img src="./docs/images/Diagrama Relacional Conceitual.png" alt="Modelagem conceitual do BD" title="Beauty Control - Diagrama do Modelo Conceitual" />
 </figure>
 
 ##### 3.2.3 Diagrama do Modelo Lógico
 
 <figure>
-    <img src="https://github.com/HaraHeique/LES-artefatos-beauty-control/blob/main/artifacts/2%20-%20Sprint%201/Diagramas%20Estruturais/Diagrama%20Relacional%20-%20L%C3%B3gico.png" alt="Modelagem lógica do BD" title="Beauty Control - Diagrama do Modelo Lógico" />
+    <img src="./docs/images/Diagrama Relacional - Lógico.png" alt="Modelagem lógica do BD" title="Beauty Control - Diagrama do Modelo Lógico" />
 </figure>
 
 ### 4. Protótipo
