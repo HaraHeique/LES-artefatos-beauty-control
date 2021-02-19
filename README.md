@@ -5,7 +5,8 @@ O trabalho em questão é da disciplina de *Laboratório de Engenharia de Softwa
 ### Informações Gerais
 - **Equipe**: [Antônio Carlos](https://github.com/duraes-antonio), [Harã Heique](https://github.com/HaraHeique), [Joel Will](https://github.com/joelwb) e [Nicolas Sampaio](https://github.com/NicolasSampaio)
 - **Documentos por entrega**: https://drive.google.com/drive/folders/1-GnuReU-tNZxvHa44-Gd0BhA_aEWQZwW?usp=sharing
-- **Hospedagem da aplicação**: https://beautycontrol-47a13.web.app/
+- **Hospedagem para testes**: https://larissamotta.github.io/devweb-front-end  
+- **Hospedagem principal**: https://beautycontrol-47a13.web.app/
 
 ### 1. Descrição
 
